@@ -1,0 +1,431 @@
+MSOA11CD,MSOA11NM,Indicator Name,Value,Lower Limit,Upper Limit
+E02005921,Cherwell 001,Emergency Admissions for Myocardial Infarction ,68.9,48,95.8
+E02005922,Cherwell 002,Emergency Admissions for Myocardial Infarction ,91.1,64.5,125.1
+E02005923,Cherwell 003,Emergency Admissions for Myocardial Infarction ,155.7,116.6,203.7
+E02005924,Cherwell 004,Emergency Admissions for Myocardial Infarction ,119.4,93.2,150.6
+E02005925,Cherwell 005,Emergency Admissions for Myocardial Infarction ,160.1,124.8,202.2
+E02005926,Cherwell 006,Emergency Admissions for Myocardial Infarction ,84.5,64.5,108.8
+E02005927,Cherwell 007,Emergency Admissions for Myocardial Infarction ,98,69,135.1
+E02005928,Cherwell 008,Emergency Admissions for Myocardial Infarction ,88.1,67.5,112.9
+E02005929,Cherwell 009,Emergency Admissions for Myocardial Infarction ,60.4,42.1,84.1
+E02005930,Cherwell 010,Emergency Admissions for Myocardial Infarction ,71.3,52,95.5
+E02005931,Cherwell 011,Emergency Admissions for Myocardial Infarction ,91.4,68.6,119.2
+E02005932,Cherwell 012,Emergency Admissions for Myocardial Infarction ,83,53.7,122.6
+E02005933,Cherwell 013,Emergency Admissions for Myocardial Infarction ,138.2,105.9,177.1
+E02005934,Cherwell 014,Emergency Admissions for Myocardial Infarction ,102.6,78.9,131.3
+E02005935,Cherwell 015,Emergency Admissions for Myocardial Infarction ,96.7,69.4,131.2
+E02005936,Cherwell 016,Emergency Admissions for Myocardial Infarction ,74.6,56.2,97.1
+E02005937,Cherwell 017,Emergency Admissions for Myocardial Infarction ,93.7,70.6,121.9
+E02005938,Cherwell 018,Emergency Admissions for Myocardial Infarction ,82.3,56.7,115.6
+E02005939,Cherwell 019,Emergency Admissions for Myocardial Infarction ,66.5,46.1,92.9
+E02005940,Oxford 001,Emergency Admissions for Myocardial Infarction ,76.5,53.3,106.5
+E02005941,Oxford 002,Emergency Admissions for Myocardial Infarction ,53.4,34.2,79.5
+E02005942,Oxford 003,Emergency Admissions for Myocardial Infarction ,30.7,15.8,53.6
+E02005943,Oxford 004,Emergency Admissions for Myocardial Infarction ,79.7,55.2,111.4
+E02005944,Oxford 005,Emergency Admissions for Myocardial Infarction ,149.6,112.4,195.2
+E02005945,Oxford 006,Emergency Admissions for Myocardial Infarction ,50.8,33.7,73.4
+E02005946,Oxford 007,Emergency Admissions for Myocardial Infarction ,74.5,51.9,103.6
+E02005947,Oxford 008,Emergency Admissions for Myocardial Infarction ,74,45.8,113.1
+E02005948,Oxford 009,Emergency Admissions for Myocardial Infarction ,65,39.1,101.5
+E02005949,Oxford 010,Emergency Admissions for Myocardial Infarction ,110.6,75.7,156.2
+E02005950,Oxford 011,Emergency Admissions for Myocardial Infarction ,110.8,78.4,152.1
+E02005951,Oxford 012,Emergency Admissions for Myocardial Infarction ,88.1,58.1,128.2
+E02005952,Oxford 013,Emergency Admissions for Myocardial Infarction ,120.2,93.5,152.1
+E02005953,Oxford 014,Emergency Admissions for Myocardial Infarction ,122.5,82,176
+E02005954,Oxford 015,Emergency Admissions for Myocardial Infarction ,82.3,61.1,108.5
+E02005955,Oxford 016,Emergency Admissions for Myocardial Infarction ,76,53.8,104.3
+E02005956,Oxford 017,Emergency Admissions for Myocardial Infarction ,165.8,124.9,215.8
+E02005957,Oxford 018,Emergency Admissions for Myocardial Infarction ,108.9,73.5,155.5
+E02005958,South Oxfordshire 001,Emergency Admissions for Myocardial Infarction ,65.9,42.7,97.4
+E02005959,South Oxfordshire 002,Emergency Admissions for Myocardial Infarction ,67.6,45.9,96
+E02005960,South Oxfordshire 003,Emergency Admissions for Myocardial Infarction ,76.4,54.8,103.6
+E02005961,South Oxfordshire 004,Emergency Admissions for Myocardial Infarction ,55.2,37.2,78.7
+E02005962,South Oxfordshire 005,Emergency Admissions for Myocardial Infarction ,75.1,56.1,98.5
+E02005963,South Oxfordshire 006,Emergency Admissions for Myocardial Infarction ,86.8,65.4,113
+E02005964,South Oxfordshire 007,Emergency Admissions for Myocardial Infarction ,84.1,62.4,110.8
+E02005965,South Oxfordshire 008,Emergency Admissions for Myocardial Infarction ,75.9,52.9,105.6
+E02005966,South Oxfordshire 009,Emergency Admissions for Myocardial Infarction ,72,45.6,108
+E02005967,South Oxfordshire 010,Emergency Admissions for Myocardial Infarction ,70.6,48,100.2
+E02005968,South Oxfordshire 011,Emergency Admissions for Myocardial Infarction ,60.5,40.5,86.8
+E02005969,South Oxfordshire 012,Emergency Admissions for Myocardial Infarction ,69.7,51.8,91.9
+E02005970,South Oxfordshire 013,Emergency Admissions for Myocardial Infarction ,144.1,102.5,197
+E02005971,South Oxfordshire 014,Emergency Admissions for Myocardial Infarction ,104.8,76.7,139.8
+E02005972,South Oxfordshire 015,Emergency Admissions for Myocardial Infarction ,90.5,69.6,115.8
+E02005973,South Oxfordshire 016,Emergency Admissions for Myocardial Infarction ,59.3,40.3,84.1
+E02005974,South Oxfordshire 017,Emergency Admissions for Myocardial Infarction ,40.7,24.8,62.8
+E02005975,South Oxfordshire 018,Emergency Admissions for Myocardial Infarction ,43.4,29.3,62
+E02005976,South Oxfordshire 019,Emergency Admissions for Myocardial Infarction ,48.8,31.9,71.5
+E02005977,South Oxfordshire 020,Emergency Admissions for Myocardial Infarction ,40,25.1,60.6
+E02005978,Vale of White Horse 001,Emergency Admissions for Myocardial Infarction ,73.6,54.1,97.9
+E02005979,Vale of White Horse 002,Emergency Admissions for Myocardial Infarction ,77,58.3,99.8
+E02005980,Vale of White Horse 003,Emergency Admissions for Myocardial Infarction ,77.4,59.4,99.3
+E02005981,Vale of White Horse 004,Emergency Admissions for Myocardial Infarction ,56.7,39.3,79.2
+E02005982,Vale of White Horse 005,Emergency Admissions for Myocardial Infarction ,64.3,42.4,93.6
+E02005983,Vale of White Horse 006,Emergency Admissions for Myocardial Infarction ,64.9,48,85.8
+E02005984,Vale of White Horse 007,Emergency Admissions for Myocardial Infarction ,90.5,68.4,117.6
+E02005985,Vale of White Horse 008,Emergency Admissions for Myocardial Infarction ,89.9,66.9,118.2
+E02005986,Vale of White Horse 009,Emergency Admissions for Myocardial Infarction ,71.3,52.7,94.3
+E02005987,Vale of White Horse 010,Emergency Admissions for Myocardial Infarction ,90.2,68.3,116.9
+E02005988,Vale of White Horse 011,Emergency Admissions for Myocardial Infarction ,73.4,52.2,100.4
+E02005991,Vale of White Horse 014,Emergency Admissions for Myocardial Infarction ,79.2,60.7,101.5
+E02005992,Vale of White Horse 015,Emergency Admissions for Myocardial Infarction ,60.6,45.1,79.7
+E02005993,West Oxfordshire 001,Emergency Admissions for Myocardial Infarction ,113,86.1,145.8
+E02005994,West Oxfordshire 002,Emergency Admissions for Myocardial Infarction ,94.8,70.6,124.7
+E02005995,West Oxfordshire 003,Emergency Admissions for Myocardial Infarction ,73.7,52.9,100
+E02005996,West Oxfordshire 004,Emergency Admissions for Myocardial Infarction ,87.2,66.8,111.7
+E02005997,West Oxfordshire 005,Emergency Admissions for Myocardial Infarction ,92.7,67.9,123.7
+E02005998,West Oxfordshire 006,Emergency Admissions for Myocardial Infarction ,66.1,46.3,91.4
+E02005999,West Oxfordshire 007,Emergency Admissions for Myocardial Infarction ,76.3,55,103.1
+E02006000,West Oxfordshire 008,Emergency Admissions for Myocardial Infarction ,66.8,50.2,87.2
+E02006001,West Oxfordshire 009,Emergency Admissions for Myocardial Infarction ,90.6,63.1,126
+E02006002,West Oxfordshire 010,Emergency Admissions for Myocardial Infarction ,68.2,51.5,88.6
+E02006003,West Oxfordshire 011,Emergency Admissions for Myocardial Infarction ,72.9,50.2,102.4
+E02006004,West Oxfordshire 012,Emergency Admissions for Myocardial Infarction ,84.8,62.1,113.1
+E02006005,West Oxfordshire 013,Emergency Admissions for Myocardial Infarction ,95.3,67.1,131.3
+E02006006,West Oxfordshire 014,Emergency Admissions for Myocardial Infarction ,90.7,63.9,125
+E02006007,West Oxfordshire 015,Emergency Admissions for Myocardial Infarction ,71.1,51,96.5
+E02006886,Vale of White Horse 016,Emergency Admissions for Myocardial Infarction ,76,59.4,95.9
+E02005921,Cherwell 001,Reception: Prevalence of Overweight (Including Obesity),18.8,14.7,27.2
+E02005922,Cherwell 002,Reception: Prevalence of Overweight (Including Obesity),22.2,17.6,27.5
+E02005923,Cherwell 003,Reception: Prevalence of Overweight (Including Obesity),19,14.7,25.3
+E02005924,Cherwell 004,Reception: Prevalence of Overweight (Including Obesity),17.6,14.3,22.1
+E02005925,Cherwell 005,Reception: Prevalence of Overweight (Including Obesity),23.9,19.2,28.3
+E02005926,Cherwell 006,Reception: Prevalence of Overweight (Including Obesity),19.5,15,25.9
+E02005927,Cherwell 007,Reception: Prevalence of Overweight (Including Obesity),25,17.9,32
+E02005928,Cherwell 008,Reception: Prevalence of Overweight (Including Obesity),21.2,17.3,26.1
+E02005929,Cherwell 009,Reception: Prevalence of Overweight (Including Obesity),23.3,16,29.1
+E02005930,Cherwell 010,Reception: Prevalence of Overweight (Including Obesity),21.3,16.8,27.3
+E02005931,Cherwell 011,Reception: Prevalence of Overweight (Including Obesity),17.1,13.7,21.6
+E02005932,Cherwell 012,Reception: Prevalence of Overweight (Including Obesity),14.3,9.4,21
+E02005933,Cherwell 013,Reception: Prevalence of Overweight (Including Obesity),21.6,16.5,28.4
+E02005934,Cherwell 014,Reception: Prevalence of Overweight (Including Obesity),20,14.7,25.7
+E02005935,Cherwell 015,Reception: Prevalence of Overweight (Including Obesity),17.4,13.8,23.8
+E02005936,Cherwell 016,Reception: Prevalence of Overweight (Including Obesity),17.3,13.4,20.9
+E02005937,Cherwell 017,Reception: Prevalence of Overweight (Including Obesity),18.2,11.3,25.4
+E02005938,Cherwell 018,Reception: Prevalence of Overweight (Including Obesity),16,9.4,21.8
+E02005939,Cherwell 019,Reception: Prevalence of Overweight (Including Obesity),15.8,11.9,22.5
+E02005940,Oxford 001,Reception: Prevalence of Overweight (Including Obesity),11.5,6.5,17.3
+E02005941,Oxford 002,Reception: Prevalence of Overweight (Including Obesity),16.7,11,22.7
+E02005942,Oxford 003,Reception: Prevalence of Overweight (Including Obesity),8,5.5,15.8
+E02005943,Oxford 004,Reception: Prevalence of Overweight (Including Obesity),16.7,12.1,23
+E02005944,Oxford 005,Reception: Prevalence of Overweight (Including Obesity),27.1,21.9,33.2
+E02005945,Oxford 006,Reception: Prevalence of Overweight (Including Obesity),14.3,9.8,18.3
+E02005946,Oxford 007,Reception: Prevalence of Overweight (Including Obesity),13.2,10,18.3
+E02005947,Oxford 008,Reception: Prevalence of Overweight (Including Obesity),16.7,11.4,30.9
+E02005948,Oxford 009,Reception: Prevalence of Overweight (Including Obesity),14.3,7.5,20.2
+E02005949,Oxford 010,Reception: Prevalence of Overweight (Including Obesity),21.6,17,29
+E02005950,Oxford 011,Reception: Prevalence of Overweight (Including Obesity),17.9,13.4,26.3
+E02005951,Oxford 012,Reception: Prevalence of Overweight (Including Obesity),10.5,5.7,17.9
+E02005952,Oxford 013,Reception: Prevalence of Overweight (Including Obesity),21.2,16.8,25.5
+E02005953,Oxford 014,Reception: Prevalence of Overweight (Including Obesity),17.2,11.3,23.3
+E02005954,Oxford 015,Reception: Prevalence of Overweight (Including Obesity),17.8,14,24.1
+E02005955,Oxford 016,Reception: Prevalence of Overweight (Including Obesity),23.7,19.8,29.5
+E02005956,Oxford 017,Reception: Prevalence of Overweight (Including Obesity),28.1,21.3,35.1
+E02005957,Oxford 018,Reception: Prevalence of Overweight (Including Obesity),20.9,16.9,28
+E02005958,South Oxfordshire 001,Reception: Prevalence of Overweight (Including Obesity),17.2,11.8,23.9
+E02005959,South Oxfordshire 002,Reception: Prevalence of Overweight (Including Obesity),21.7,16.8,32.3
+E02005960,South Oxfordshire 003,Reception: Prevalence of Overweight (Including Obesity),17.4,12.7,22.4
+E02005961,South Oxfordshire 004,Reception: Prevalence of Overweight (Including Obesity),17.2,10.7,22.5
+E02005962,South Oxfordshire 005,Reception: Prevalence of Overweight (Including Obesity),22.7,18.2,29.3
+E02005963,South Oxfordshire 006,Reception: Prevalence of Overweight (Including Obesity),24.1,17.6,31.3
+E02005964,South Oxfordshire 007,Reception: Prevalence of Overweight (Including Obesity),20,13.8,25.4
+E02005965,South Oxfordshire 008,Reception: Prevalence of Overweight (Including Obesity),19.2,14.3,28.1
+E02005966,South Oxfordshire 009,Reception: Prevalence of Overweight (Including Obesity),19.6,15.2,25.4
+E02005967,South Oxfordshire 010,Reception: Prevalence of Overweight (Including Obesity),22.5,18.3,26.9
+E02005968,South Oxfordshire 011,Reception: Prevalence of Overweight (Including Obesity),15.4,12.1,21
+E02005969,South Oxfordshire 012,Reception: Prevalence of Overweight (Including Obesity),19,15.1,25.8
+E02005970,South Oxfordshire 013,Reception: Prevalence of Overweight (Including Obesity),16.7,12.9,24
+E02005971,South Oxfordshire 014,Reception: Prevalence of Overweight (Including Obesity),17.9,14.2,25.2
+E02005972,South Oxfordshire 015,Reception: Prevalence of Overweight (Including Obesity),21.3,17.7,26.9
+E02005973,South Oxfordshire 016,Reception: Prevalence of Overweight (Including Obesity),17.9,13.6,26.6
+E02005974,South Oxfordshire 017,Reception: Prevalence of Overweight (Including Obesity),20,13.9,27.9
+E02005975,South Oxfordshire 018,Reception: Prevalence of Overweight (Including Obesity),24.2,17.4,30.2
+E02005976,South Oxfordshire 019,Reception: Prevalence of Overweight (Including Obesity),10,5.5,17.4
+E02005977,South Oxfordshire 020,Reception: Prevalence of Overweight (Including Obesity),16.7,12.3,24.5
+E02005978,Vale of White Horse 001,Reception: Prevalence of Overweight (Including Obesity),12.2,9.3,18.7
+E02005979,Vale of White Horse 002,Reception: Prevalence of Overweight (Including Obesity),12.7,9.8,17.9
+E02005980,Vale of White Horse 003,Reception: Prevalence of Overweight (Including Obesity),16.4,13.2,21.7
+E02005981,Vale of White Horse 004,Reception: Prevalence of Overweight (Including Obesity),15.7,12.1,21.2
+E02005982,Vale of White Horse 005,Reception: Prevalence of Overweight (Including Obesity),17.1,13.2,24.5
+E02005983,Vale of White Horse 006,Reception: Prevalence of Overweight (Including Obesity),21.1,17.3,26.8
+E02005984,Vale of White Horse 007,Reception: Prevalence of Overweight (Including Obesity),27,20.7,33.3
+E02005985,Vale of White Horse 008,Reception: Prevalence of Overweight (Including Obesity),23.9,18.5,29.5
+E02005986,Vale of White Horse 009,Reception: Prevalence of Overweight (Including Obesity),18.2,14.4,24.8
+E02005987,Vale of White Horse 010,Reception: Prevalence of Overweight (Including Obesity),22.1,17.3,26
+E02005988,Vale of White Horse 011,Reception: Prevalence of Overweight (Including Obesity),20.3,16.5,25.3
+E02005991,Vale of White Horse 014,Reception: Prevalence of Overweight (Including Obesity),20,15.8,25.7
+E02005992,Vale of White Horse 015,Reception: Prevalence of Overweight (Including Obesity),19.8,16.2,23.1
+E02005993,West Oxfordshire 001,Reception: Prevalence of Overweight (Including Obesity),15,10.3,20
+E02005994,West Oxfordshire 002,Reception: Prevalence of Overweight (Including Obesity),16.1,11.1,22.6
+E02005995,West Oxfordshire 003,Reception: Prevalence of Overweight (Including Obesity),18.8,13,25
+E02005996,West Oxfordshire 004,Reception: Prevalence of Overweight (Including Obesity),22,16.4,27.6
+E02005997,West Oxfordshire 005,Reception: Prevalence of Overweight (Including Obesity),10.5,6.6,19.6
+E02005998,West Oxfordshire 006,Reception: Prevalence of Overweight (Including Obesity),17.9,13.5,26.4
+E02005999,West Oxfordshire 007,Reception: Prevalence of Overweight (Including Obesity),23.3,18.3,31.9
+E02006000,West Oxfordshire 008,Reception: Prevalence of Overweight (Including Obesity),16.1,12.5,21.1
+E02006001,West Oxfordshire 009,Reception: Prevalence of Overweight (Including Obesity),15.2,12,21.6
+E02006002,West Oxfordshire 010,Reception: Prevalence of Overweight (Including Obesity),22.9,17.9,28.4
+E02006003,West Oxfordshire 011,Reception: Prevalence of Overweight (Including Obesity),24,18.1,33
+E02006004,West Oxfordshire 012,Reception: Prevalence of Overweight (Including Obesity),27.3,18.4,34.6
+E02006005,West Oxfordshire 013,Reception: Prevalence of Overweight (Including Obesity),21.2,18.3,25.5
+E02006006,West Oxfordshire 014,Reception: Prevalence of Overweight (Including Obesity),24.3,17.9,30.1
+E02006007,West Oxfordshire 015,Reception: Prevalence of Overweight (Including Obesity),17.6,13.3,25
+E02006886,Vale of White Horse 016,Reception: Prevalence of Overweight (Including Obesity),20.2,16.5,24
+E02005921,Cherwell 001,Year 6: Prevalence of Overweight (Including Obesity),21.4,15.7,29.3
+E02005922,Cherwell 002,Year 6: Prevalence of Overweight (Including Obesity),34.5,29.1,40
+E02005923,Cherwell 003,Year 6: Prevalence of Overweight (Including Obesity),39.6,33.9,46.1
+E02005924,Cherwell 004,Year 6: Prevalence of Overweight (Including Obesity),39.4,33.6,44
+E02005925,Cherwell 005,Year 6: Prevalence of Overweight (Including Obesity),38.9,34.4,44.5
+E02005926,Cherwell 006,Year 6: Prevalence of Overweight (Including Obesity),30.6,25.2,36.6
+E02005927,Cherwell 007,Year 6: Prevalence of Overweight (Including Obesity),33.3,26.9,42.6
+E02005928,Cherwell 008,Year 6: Prevalence of Overweight (Including Obesity),31.2,25.8,35.9
+E02005929,Cherwell 009,Year 6: Prevalence of Overweight (Including Obesity),29.4,23.4,37.1
+E02005930,Cherwell 010,Year 6: Prevalence of Overweight (Including Obesity),23.4,17.8,28.5
+E02005931,Cherwell 011,Year 6: Prevalence of Overweight (Including Obesity),38.7,32.7,43.5
+E02005932,Cherwell 012,Year 6: Prevalence of Overweight (Including Obesity),27.5,22.5,34.9
+E02005933,Cherwell 013,Year 6: Prevalence of Overweight (Including Obesity),37.8,31.5,45.5
+E02005934,Cherwell 014,Year 6: Prevalence of Overweight (Including Obesity),34,27.7,39.8
+E02005935,Cherwell 015,Year 6: Prevalence of Overweight (Including Obesity),32.7,26.6,38.2
+E02005936,Cherwell 016,Year 6: Prevalence of Overweight (Including Obesity),27.4,22.2,32.1
+E02005937,Cherwell 017,Year 6: Prevalence of Overweight (Including Obesity),31.8,24.9,42.3
+E02005938,Cherwell 018,Year 6: Prevalence of Overweight (Including Obesity),26.9,21.8,37.3
+E02005939,Cherwell 019,Year 6: Prevalence of Overweight (Including Obesity),38.9,32.4,46.7
+E02005940,Oxford 001,Year 6: Prevalence of Overweight (Including Obesity),24.2,18.1,31
+E02005941,Oxford 002,Year 6: Prevalence of Overweight (Including Obesity),23.3,17.9,31.4
+E02005942,Oxford 003,Year 6: Prevalence of Overweight (Including Obesity),16,10.4,23.1
+E02005943,Oxford 004,Year 6: Prevalence of Overweight (Including Obesity),30.2,23.7,35.9
+E02005944,Oxford 005,Year 6: Prevalence of Overweight (Including Obesity),38.6,32.9,44.2
+E02005945,Oxford 006,Year 6: Prevalence of Overweight (Including Obesity),29.2,22.9,34.2
+E02005946,Oxford 007,Year 6: Prevalence of Overweight (Including Obesity),24.5,20.4,31.3
+E02005947,Oxford 008,Year 6: Prevalence of Overweight (Including Obesity),36.4,25.9,51.2
+E02005948,Oxford 009,Year 6: Prevalence of Overweight (Including Obesity),32,23,38.9
+E02005949,Oxford 010,Year 6: Prevalence of Overweight (Including Obesity),39,32.1,45.4
+E02005950,Oxford 011,Year 6: Prevalence of Overweight (Including Obesity),35.3,24.9,44.7
+E02005951,Oxford 012,Year 6: Prevalence of Overweight (Including Obesity),16.7,9.6,24.7
+E02005952,Oxford 013,Year 6: Prevalence of Overweight (Including Obesity),38.1,33.7,44.5
+E02005953,Oxford 014,Year 6: Prevalence of Overweight (Including Obesity),41.2,29.9,50.1
+E02005954,Oxford 015,Year 6: Prevalence of Overweight (Including Obesity),40.4,33.4,45.8
+E02005955,Oxford 016,Year 6: Prevalence of Overweight (Including Obesity),37.3,32.7,43
+E02005956,Oxford 017,Year 6: Prevalence of Overweight (Including Obesity),43.2,37,50
+E02005957,Oxford 018,Year 6: Prevalence of Overweight (Including Obesity),43.1,36.3,48.3
+E02005958,South Oxfordshire 001,Year 6: Prevalence of Overweight (Including Obesity),41.4,32.6,48.4
+E02005959,South Oxfordshire 002,Year 6: Prevalence of Overweight (Including Obesity),28,20.2,35.6
+E02005960,South Oxfordshire 003,Year 6: Prevalence of Overweight (Including Obesity),21.7,16.6,27.2
+E02005961,South Oxfordshire 004,Year 6: Prevalence of Overweight (Including Obesity),26.7,21.1,35.2
+E02005962,South Oxfordshire 005,Year 6: Prevalence of Overweight (Including Obesity),27.3,22,33.8
+E02005963,South Oxfordshire 006,Year 6: Prevalence of Overweight (Including Obesity),34.2,27.2,40.5
+E02005964,South Oxfordshire 007,Year 6: Prevalence of Overweight (Including Obesity),28.6,21.6,34.8
+E02005965,South Oxfordshire 008,Year 6: Prevalence of Overweight (Including Obesity),22.2,17.3,31.5
+E02005966,South Oxfordshire 009,Year 6: Prevalence of Overweight (Including Obesity),28,22.3,33.3
+E02005967,South Oxfordshire 010,Year 6: Prevalence of Overweight (Including Obesity),29.5,24.8,35
+E02005968,South Oxfordshire 011,Year 6: Prevalence of Overweight (Including Obesity),22.2,17.8,30
+E02005969,South Oxfordshire 012,Year 6: Prevalence of Overweight (Including Obesity),16.7,12.9,23.1
+E02005970,South Oxfordshire 013,Year 6: Prevalence of Overweight (Including Obesity),37.9,31.5,47.3
+E02005971,South Oxfordshire 014,Year 6: Prevalence of Overweight (Including Obesity),37.5,30,43.2
+E02005972,South Oxfordshire 015,Year 6: Prevalence of Overweight (Including Obesity),20.8,17,26.8
+E02005973,South Oxfordshire 016,Year 6: Prevalence of Overweight (Including Obesity),23.1,16.7,31
+E02005974,South Oxfordshire 017,Year 6: Prevalence of Overweight (Including Obesity),29,22.9,37.1
+E02005975,South Oxfordshire 018,Year 6: Prevalence of Overweight (Including Obesity),25,19.7,30.6
+E02005976,South Oxfordshire 019,Year 6: Prevalence of Overweight (Including Obesity),15.4,11,23.8
+E02005977,South Oxfordshire 020,Year 6: Prevalence of Overweight (Including Obesity),23.1,16.6,28.1
+E02005978,Vale of White Horse 001,Year 6: Prevalence of Overweight (Including Obesity),23.1,18.2,30
+E02005979,Vale of White Horse 002,Year 6: Prevalence of Overweight (Including Obesity),27.4,23.4,33.3
+E02005980,Vale of White Horse 003,Year 6: Prevalence of Overweight (Including Obesity),36,30.1,41.8
+E02005981,Vale of White Horse 004,Year 6: Prevalence of Overweight (Including Obesity),25,20.8,31
+E02005982,Vale of White Horse 005,Year 6: Prevalence of Overweight (Including Obesity),28.1,20.9,34.5
+E02005983,Vale of White Horse 006,Year 6: Prevalence of Overweight (Including Obesity),27.8,22.7,33.3
+E02005984,Vale of White Horse 007,Year 6: Prevalence of Overweight (Including Obesity),29.7,24.1,37.2
+E02005985,Vale of White Horse 008,Year 6: Prevalence of Overweight (Including Obesity),38.5,31.1,44.5
+E02005986,Vale of White Horse 009,Year 6: Prevalence of Overweight (Including Obesity),34,28.8,40.9
+E02005987,Vale of White Horse 010,Year 6: Prevalence of Overweight (Including Obesity),28.8,24.4,34.8
+E02005988,Vale of White Horse 011,Year 6: Prevalence of Overweight (Including Obesity),33.3,27.6,38.2
+E02005991,Vale of White Horse 014,Year 6: Prevalence of Overweight (Including Obesity),31.5,27,38.1
+E02005992,Vale of White Horse 015,Year 6: Prevalence of Overweight (Including Obesity),29.4,25.6,34.2
+E02005993,West Oxfordshire 001,Year 6: Prevalence of Overweight (Including Obesity),27.9,21.3,33
+E02005994,West Oxfordshire 002,Year 6: Prevalence of Overweight (Including Obesity),31.2,24.2,38.4
+E02005995,West Oxfordshire 003,Year 6: Prevalence of Overweight (Including Obesity),29.4,24.5,38.3
+E02005996,West Oxfordshire 004,Year 6: Prevalence of Overweight (Including Obesity),19.6,15.7,25.5
+E02005997,West Oxfordshire 005,Year 6: Prevalence of Overweight (Including Obesity),29.2,22.5,38.7
+E02005998,West Oxfordshire 006,Year 6: Prevalence of Overweight (Including Obesity),26.3,20.5,32.8
+E02005999,West Oxfordshire 007,Year 6: Prevalence of Overweight (Including Obesity),34.4,27.9,42.4
+E02006000,West Oxfordshire 008,Year 6: Prevalence of Overweight (Including Obesity),24.6,19.9,28.9
+E02006001,West Oxfordshire 009,Year 6: Prevalence of Overweight (Including Obesity),36.4,29.9,42.4
+E02006002,West Oxfordshire 010,Year 6: Prevalence of Overweight (Including Obesity),38.3,31.8,44.1
+E02006003,West Oxfordshire 011,Year 6: Prevalence of Overweight (Including Obesity),27,20.4,32.9
+E02006004,West Oxfordshire 012,Year 6: Prevalence of Overweight (Including Obesity),29.2,20.9,36.7
+E02006005,West Oxfordshire 013,Year 6: Prevalence of Overweight (Including Obesity),37.3,32.2,41.8
+E02006006,West Oxfordshire 014,Year 6: Prevalence of Overweight (Including Obesity),31.4,25.5,39.2
+E02006007,West Oxfordshire 015,Year 6: Prevalence of Overweight (Including Obesity),24.3,18.9,31.3
+E02006886,Vale of White Horse 016,Year 6: Prevalence of Overweight (Including Obesity),30.3,25.8,35
+E02005921,Cherwell 001,Emergency Admissions for CHD,64.1,48.9,82.5
+E02005922,Cherwell 002,Emergency Admissions for CHD,93,72.8,117.1
+E02005923,Cherwell 003,Emergency Admissions for CHD,129,102.5,160.4
+E02005924,Cherwell 004,Emergency Admissions for CHD,114.2,94.9,136.1
+E02005925,Cherwell 005,Emergency Admissions for CHD,136.9,112.6,164.9
+E02005926,Cherwell 006,Emergency Admissions for CHD,81.9,67.1,98.9
+E02005927,Cherwell 007,Emergency Admissions for CHD,84.6,64.4,109.1
+E02005928,Cherwell 008,Emergency Admissions for CHD,71.9,58,88.1
+E02005929,Cherwell 009,Emergency Admissions for CHD,60.7,46.8,77.3
+E02005930,Cherwell 010,Emergency Admissions for CHD,82.4,66.8,100.7
+E02005931,Cherwell 011,Emergency Admissions for CHD,76.4,60.9,94.7
+E02005932,Cherwell 012,Emergency Admissions for CHD,66.1,46.6,91.2
+E02005933,Cherwell 013,Emergency Admissions for CHD,117.9,95.7,143.6
+E02005934,Cherwell 014,Emergency Admissions for CHD,82.9,67,101.5
+E02005935,Cherwell 015,Emergency Admissions for CHD,82.3,63.4,105.1
+E02005936,Cherwell 016,Emergency Admissions for CHD,69.8,56.5,85.3
+E02005937,Cherwell 017,Emergency Admissions for CHD,73.3,58,91.4
+E02005938,Cherwell 018,Emergency Admissions for CHD,77.4,58.6,100.3
+E02005939,Cherwell 019,Emergency Admissions for CHD,54.4,40.5,71.5
+E02005940,Oxford 001,Emergency Admissions for CHD,82.2,64,104.1
+E02005941,Oxford 002,Emergency Admissions for CHD,47.5,33.8,65
+E02005942,Oxford 003,Emergency Admissions for CHD,33.5,21.5,49.8
+E02005943,Oxford 004,Emergency Admissions for CHD,69.1,51.9,90.1
+E02005944,Oxford 005,Emergency Admissions for CHD,118.7,94,148
+E02005945,Oxford 006,Emergency Admissions for CHD,53.6,40.2,69.9
+E02005946,Oxford 007,Emergency Admissions for CHD,81.9,64,103.3
+E02005947,Oxford 008,Emergency Admissions for CHD,62.2,42.8,87.4
+E02005948,Oxford 009,Emergency Admissions for CHD,75.6,54.3,102.6
+E02005949,Oxford 010,Emergency Admissions for CHD,107,81,138.6
+E02005950,Oxford 011,Emergency Admissions for CHD,103.6,80.2,131.9
+E02005951,Oxford 012,Emergency Admissions for CHD,79.9,58.3,106.9
+E02005952,Oxford 013,Emergency Admissions for CHD,115.1,95.6,137.4
+E02005953,Oxford 014,Emergency Admissions for CHD,111.8,82.7,147.8
+E02005954,Oxford 015,Emergency Admissions for CHD,84,67.8,103
+E02005955,Oxford 016,Emergency Admissions for CHD,74.8,58.2,94.7
+E02005956,Oxford 017,Emergency Admissions for CHD,125.9,99.3,157.3
+E02005957,Oxford 018,Emergency Admissions for CHD,96.4,71.3,127.5
+E02005958,South Oxfordshire 001,Emergency Admissions for CHD,54.4,38.5,74.6
+E02005959,South Oxfordshire 002,Emergency Admissions for CHD,62.5,46.8,81.8
+E02005960,South Oxfordshire 003,Emergency Admissions for CHD,67,51.8,85.3
+E02005961,South Oxfordshire 004,Emergency Admissions for CHD,47.9,35.3,63.5
+E02005962,South Oxfordshire 005,Emergency Admissions for CHD,57,44.7,71.7
+E02005963,South Oxfordshire 006,Emergency Admissions for CHD,76.1,61.1,93.6
+E02005964,South Oxfordshire 007,Emergency Admissions for CHD,67.4,52.9,84.6
+E02005965,South Oxfordshire 008,Emergency Admissions for CHD,67,50.8,86.8
+E02005966,South Oxfordshire 009,Emergency Admissions for CHD,60.8,42.6,84.2
+E02005967,South Oxfordshire 010,Emergency Admissions for CHD,59.3,43.7,78.7
+E02005968,South Oxfordshire 011,Emergency Admissions for CHD,48.6,35.2,65.5
+E02005969,South Oxfordshire 012,Emergency Admissions for CHD,52.5,40.9,66.5
+E02005970,South Oxfordshire 013,Emergency Admissions for CHD,101.7,75.7,133.8
+E02005971,South Oxfordshire 014,Emergency Admissions for CHD,89.3,69.9,112.5
+E02005972,South Oxfordshire 015,Emergency Admissions for CHD,75.7,61.4,92.3
+E02005973,South Oxfordshire 016,Emergency Admissions for CHD,63.7,48.7,81.8
+E02005974,South Oxfordshire 017,Emergency Admissions for CHD,45.5,32.6,61.7
+E02005975,South Oxfordshire 018,Emergency Admissions for CHD,41.6,31.2,54.5
+E02005976,South Oxfordshire 019,Emergency Admissions for CHD,42.8,30.9,57.9
+E02005977,South Oxfordshire 020,Emergency Admissions for CHD,34.9,24.3,48.5
+E02005978,Vale of White Horse 001,Emergency Admissions for CHD,60.1,46.9,76
+E02005979,Vale of White Horse 002,Emergency Admissions for CHD,67.8,54.6,83.1
+E02005980,Vale of White Horse 003,Emergency Admissions for CHD,69.7,56.9,84.6
+E02005981,Vale of White Horse 004,Emergency Admissions for CHD,59.4,46,75.6
+E02005982,Vale of White Horse 005,Emergency Admissions for CHD,61.9,45.6,82.1
+E02005983,Vale of White Horse 006,Emergency Admissions for CHD,62.4,49.9,77
+E02005984,Vale of White Horse 007,Emergency Admissions for CHD,72.5,57.7,89.9
+E02005985,Vale of White Horse 008,Emergency Admissions for CHD,85,68.3,104.6
+E02005986,Vale of White Horse 009,Emergency Admissions for CHD,68,54.4,84
+E02005987,Vale of White Horse 010,Emergency Admissions for CHD,78,62.8,95.8
+E02005988,Vale of White Horse 011,Emergency Admissions for CHD,61.1,46.6,78.7
+E02005991,Vale of White Horse 014,Emergency Admissions for CHD,65.5,52.9,80.2
+E02005992,Vale of White Horse 015,Emergency Admissions for CHD,56.1,45,69.2
+E02005993,West Oxfordshire 001,Emergency Admissions for CHD,94.5,76.1,116
+E02005994,West Oxfordshire 002,Emergency Admissions for CHD,70,54.5,88.6
+E02005995,West Oxfordshire 003,Emergency Admissions for CHD,64.6,49.9,82.1
+E02005996,West Oxfordshire 004,Emergency Admissions for CHD,65.8,52.6,81.3
+E02005997,West Oxfordshire 005,Emergency Admissions for CHD,74.3,57.7,94.3
+E02005998,West Oxfordshire 006,Emergency Admissions for CHD,70.9,55.3,89.4
+E02005999,West Oxfordshire 007,Emergency Admissions for CHD,67,52,84.9
+E02006000,West Oxfordshire 008,Emergency Admissions for CHD,58,46.4,71.6
+E02006001,West Oxfordshire 009,Emergency Admissions for CHD,80.6,61,104.4
+E02006002,West Oxfordshire 010,Emergency Admissions for CHD,67.9,55.4,82.4
+E02006003,West Oxfordshire 011,Emergency Admissions for CHD,74.1,56.8,95
+E02006004,West Oxfordshire 012,Emergency Admissions for CHD,65.2,50.4,83.2
+E02006005,West Oxfordshire 013,Emergency Admissions for CHD,80.7,61.3,104.4
+E02006006,West Oxfordshire 014,Emergency Admissions for CHD,79.5,60.7,102.3
+E02006007,West Oxfordshire 015,Emergency Admissions for CHD,54.7,41.5,70.7
+E02006886,Vale of White Horse 016,Emergency Admissions for CHD,67,55.3,80.4
+E02005921,Cherwell 001,Emergency Admissions for Stroke,77.3,56.4,103.4
+E02005922,Cherwell 002,Emergency Admissions for Stroke,108.3,79.3,144.5
+E02005923,Cherwell 003,Emergency Admissions for Stroke,92,64.4,127.3
+E02005924,Cherwell 004,Emergency Admissions for Stroke,125,100.1,154.2
+E02005925,Cherwell 005,Emergency Admissions for Stroke,123.1,93.5,159.1
+E02005926,Cherwell 006,Emergency Admissions for Stroke,98.1,78.4,121.3
+E02005927,Cherwell 007,Emergency Admissions for Stroke,88,62.3,120.8
+E02005928,Cherwell 008,Emergency Admissions for Stroke,82.3,64,104.1
+E02005929,Cherwell 009,Emergency Admissions for Stroke,75.5,55.9,99.8
+E02005930,Cherwell 010,Emergency Admissions for Stroke,84.1,64.1,108.2
+E02005931,Cherwell 011,Emergency Admissions for Stroke,59.4,42.2,81.2
+E02005932,Cherwell 012,Emergency Admissions for Stroke,69.9,42.7,107.9
+E02005933,Cherwell 013,Emergency Admissions for Stroke,99.8,73.6,132.3
+E02005934,Cherwell 014,Emergency Admissions for Stroke,70.8,52.4,93.6
+E02005935,Cherwell 015,Emergency Admissions for Stroke,99.5,73.4,131.9
+E02005936,Cherwell 016,Emergency Admissions for Stroke,80.5,62.2,102.4
+E02005937,Cherwell 017,Emergency Admissions for Stroke,90.9,70.3,115.7
+E02005938,Cherwell 018,Emergency Admissions for Stroke,90.7,65.6,122.2
+E02005939,Cherwell 019,Emergency Admissions for Stroke,83.5,62.1,109.8
+E02005940,Oxford 001,Emergency Admissions for Stroke,54.7,36.9,78.1
+E02005941,Oxford 002,Emergency Admissions for Stroke,61.6,42.7,86.1
+E02005942,Oxford 003,Emergency Admissions for Stroke,71,48.9,99.7
+E02005943,Oxford 004,Emergency Admissions for Stroke,65.1,45.1,91
+E02005944,Oxford 005,Emergency Admissions for Stroke,82.3,56.6,115.5
+E02005945,Oxford 006,Emergency Admissions for Stroke,63.8,46.3,85.6
+E02005946,Oxford 007,Emergency Admissions for Stroke,101.7,76.4,132.8
+E02005947,Oxford 008,Emergency Admissions for Stroke,102,71.1,141.9
+E02005948,Oxford 009,Emergency Admissions for Stroke,43.7,23.9,73.3
+E02005949,Oxford 010,Emergency Admissions for Stroke,72.9,47.2,107.7
+E02005950,Oxford 011,Emergency Admissions for Stroke,78.4,52.9,111.9
+E02005951,Oxford 012,Emergency Admissions for Stroke,69.8,45.2,103.1
+E02005952,Oxford 013,Emergency Admissions for Stroke,100.6,77.4,128.4
+E02005953,Oxford 014,Emergency Admissions for Stroke,83.1,51.4,127
+E02005954,Oxford 015,Emergency Admissions for Stroke,94.1,73.3,118.9
+E02005955,Oxford 016,Emergency Admissions for Stroke,104.9,79.7,135.7
+E02005956,Oxford 017,Emergency Admissions for Stroke,141.3,105.5,185.3
+E02005957,Oxford 018,Emergency Admissions for Stroke,99.4,66.6,142.8
+E02005958,South Oxfordshire 001,Emergency Admissions for Stroke,75.8,51.8,107
+E02005959,South Oxfordshire 002,Emergency Admissions for Stroke,70.1,49.1,97
+E02005960,South Oxfordshire 003,Emergency Admissions for Stroke,80.3,60.1,105
+E02005961,South Oxfordshire 004,Emergency Admissions for Stroke,74,54.4,98.4
+E02005962,South Oxfordshire 005,Emergency Admissions for Stroke,71,53.5,92.4
+E02005963,South Oxfordshire 006,Emergency Admissions for Stroke,90.3,69.7,115.1
+E02005964,South Oxfordshire 007,Emergency Admissions for Stroke,69.8,51.4,92.5
+E02005965,South Oxfordshire 008,Emergency Admissions for Stroke,59.8,40.9,84.4
+E02005966,South Oxfordshire 009,Emergency Admissions for Stroke,51.6,28.9,85.1
+E02005967,South Oxfordshire 010,Emergency Admissions for Stroke,90.9,66.6,121.3
+E02005968,South Oxfordshire 011,Emergency Admissions for Stroke,75,54.1,101.4
+E02005969,South Oxfordshire 012,Emergency Admissions for Stroke,95.2,75.8,118
+E02005970,South Oxfordshire 013,Emergency Admissions for Stroke,87.6,56.1,130.3
+E02005971,South Oxfordshire 014,Emergency Admissions for Stroke,93.8,69.4,124
+E02005972,South Oxfordshire 015,Emergency Admissions for Stroke,67,50.5,87.3
+E02005973,South Oxfordshire 016,Emergency Admissions for Stroke,94.2,72.4,120.5
+E02005974,South Oxfordshire 017,Emergency Admissions for Stroke,108.9,84,138.8
+E02005975,South Oxfordshire 018,Emergency Admissions for Stroke,62.7,46.7,82.5
+E02005976,South Oxfordshire 019,Emergency Admissions for Stroke,67.8,48.8,91.6
+E02005977,South Oxfordshire 020,Emergency Admissions for Stroke,74.4,55.4,97.8
+E02005978,Vale of White Horse 001,Emergency Admissions for Stroke,91.6,71.6,115.3
+E02005979,Vale of White Horse 002,Emergency Admissions for Stroke,74.8,58,95
+E02005980,Vale of White Horse 003,Emergency Admissions for Stroke,77.8,61,97.8
+E02005981,Vale of White Horse 004,Emergency Admissions for Stroke,67.9,49.1,91.4
+E02005982,Vale of White Horse 005,Emergency Admissions for Stroke,45.9,28.8,69.5
+E02005983,Vale of White Horse 006,Emergency Admissions for Stroke,80.8,63.5,101.3
+E02005984,Vale of White Horse 007,Emergency Admissions for Stroke,62.8,45.4,84.6
+E02005985,Vale of White Horse 008,Emergency Admissions for Stroke,98,75.7,125
+E02005986,Vale of White Horse 009,Emergency Admissions for Stroke,88,68.6,111.1
+E02005987,Vale of White Horse 010,Emergency Admissions for Stroke,58.3,42,78.8
+E02005988,Vale of White Horse 011,Emergency Admissions for Stroke,74.6,54.4,99.8
+E02005991,Vale of White Horse 014,Emergency Admissions for Stroke,89.3,71.3,110.4
+E02005992,Vale of White Horse 015,Emergency Admissions for Stroke,70.2,54.6,88.8
+E02005993,West Oxfordshire 001,Emergency Admissions for Stroke,114.3,89.1,144.4
+E02005994,West Oxfordshire 002,Emergency Admissions for Stroke,58.8,41.6,80.7
+E02005995,West Oxfordshire 003,Emergency Admissions for Stroke,64.1,46.2,86.7
+E02005996,West Oxfordshire 004,Emergency Admissions for Stroke,56.1,41.4,74.4
+E02005997,West Oxfordshire 005,Emergency Admissions for Stroke,74.7,54.1,100.7
+E02005998,West Oxfordshire 006,Emergency Admissions for Stroke,91.3,69.7,117.6
+E02005999,West Oxfordshire 007,Emergency Admissions for Stroke,80,59.5,105.2
+E02006000,West Oxfordshire 008,Emergency Admissions for Stroke,80.4,63.2,100.8
+E02006001,West Oxfordshire 009,Emergency Admissions for Stroke,93,67,125.7
+E02006002,West Oxfordshire 010,Emergency Admissions for Stroke,74.4,58.6,93.1
+E02006003,West Oxfordshire 011,Emergency Admissions for Stroke,64.7,44.8,90.4
+E02006004,West Oxfordshire 012,Emergency Admissions for Stroke,65,46.6,88.2
+E02006005,West Oxfordshire 013,Emergency Admissions for Stroke,77.5,53,109.4
+E02006006,West Oxfordshire 014,Emergency Admissions for Stroke,89.1,64,120.9
+E02006007,West Oxfordshire 015,Emergency Admissions for Stroke,77,57.5,100.9
+E02006886,Vale of White Horse 016,Emergency Admissions for Stroke,67.7,53,85.1
